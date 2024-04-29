@@ -1,3 +1,4 @@
+# First Run
 name: Neo Launcher CI
 on:
   push:
